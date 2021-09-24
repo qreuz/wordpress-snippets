@@ -24,7 +24,7 @@
  * @TITLE       Add Custom Image Size in WordPress
  * @VERSION     1.0
  * @DESCRIPTION A collection of commands to add additional custom image sizes in WordPress.
- * @LINK        https://qreuz.com/snippets/get-featured-image-in-wordpress
+ * @LINK        https://qreuz.com/snippets/add-custom-image-sizes-to-wordpress/
  * @AUTHOR      Qreuz GmbH <hello@qreuz.com>
  * @LICENSE     GNU GPL v3 https://www.gnu.org/licenses/gpl-3.0
  */
