@@ -42,3 +42,4 @@ get_the_post_thumbnail_url();
 
 // Return the featured image URL with specified size 'large'.
 get_the_post_thumbnail_url( get_the_ID(), 'large' );
+```

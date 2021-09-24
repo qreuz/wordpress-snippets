@@ -50,3 +50,4 @@ function qreuz_snippet_custom_image_sizes( $sizes ) {
     ) );
 }
 add_filter( 'image_size_names_choose', 'qreuz_snippet_custom_image_sizes' );
+```
